@@ -1,3 +1,3 @@
 # link-instagram
 
-Tutorial
+Primeiro projeto elaborado.
