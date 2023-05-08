@@ -2,10 +2,10 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    }
+ }
 
 body {
-    background-image: linear-gradient(to bottom, #052228, #173d46);
+    background-image: linear-gradient(to bottom, #052228, #f4f4f4);
     font-family:'Roboto', sans-serif;
 }
 
@@ -14,7 +14,6 @@ body {
     text-align: center;
     width: 300px;
     margin: 60px auto;
-
 }
 
 img {
