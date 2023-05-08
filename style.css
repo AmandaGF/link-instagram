@@ -37,11 +37,9 @@ ul {
 
 h1 {
     font-size: 32px;
-    color: white;
+    color: #6a3c2c;
     margin-top: 24px;
-    margin-bottom: 8px;
-
-    
+    margin-bottom: 12px;
 }
 
 ul li a {
