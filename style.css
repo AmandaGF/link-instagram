@@ -5,7 +5,7 @@
     }
 
 body {
-    background-image: linear-gradient(to bottom, #052228, rgb(255, 255, 255));
+    background-image: linear-gradient(to bottom, #052228, #173d46);
     font-family:'Roboto', sans-serif;
 }
 
@@ -45,6 +45,7 @@ h1 {
 h3 {
     color: #f4f4f4;
     margin-bottom: 12px;
+    font-size: 15px;
 }
 
 ul li a {
